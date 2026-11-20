@@ -4,3 +4,7 @@ build/
 __pycache__/
 # Local build notes (not published)
 .ladder/
+# Hairline look sheets and build output
+docs/hairline/*.png
+docs/hairline/*.html
+docs/social-card.html

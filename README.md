@@ -1,4 +1,7 @@
-<img src="docs/icon.png" width="96" alt="NotchTV icon">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/hero-dark.png">
+  <img src="docs/hero-light.png" width="420" alt="The NotchTV icon: a rounded tile with a notch along its top edge and a play/pause glyph below it">
+</picture>
 
 # NotchTV
 
@@ -80,5 +83,8 @@ SIGN_IDENTITY="Developer ID Application: Your Name (TEAMID)" NOTARY_PROFILE=your
 
 MIT, see [LICENSE](LICENSE). The app bundles Python and several open-source packages; their
 licenses are in `NotchTV.app/Contents/Resources/ThirdPartyLicenses.txt`.
+
+The illustration is a [Hairline](https://hairline.lucasmarkes.com) figure; its source is
+`docs/hairline/notchtv.js`.
 
 NotchTV isn't affiliated with Apple. Apple TV is a trademark of Apple Inc.
