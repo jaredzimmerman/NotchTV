@@ -1,0 +1,6 @@
+.DS_Store
+build/
+*.app
+__pycache__/
+# Local build notes (not published)
+.ladder/
