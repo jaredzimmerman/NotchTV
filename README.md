@@ -12,8 +12,8 @@ when you use the Siri Remote.
 
 ## Install
 
-1. Download **NotchTV.dmg** from [Releases](../../releases/latest), open it and drag
-   NotchTV to Applications.
+1. Download `NotchTV-<version>.dmg` from the [latest release](../../releases/latest), open it
+   and drag NotchTV to Applications.
 2. Open NotchTV. When macOS asks whether NotchTV may find devices on your local network,
    choose **Allow**.
 3. Click the notch. Your Apple TV shows a PIN. Type it in, then type the second PIN that
